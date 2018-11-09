@@ -1,6 +1,8 @@
 # Clientdata Repository
 
-This is the serverside data. For best results compile into sot files (see tre-sot-builders repo or ask Erusman - thanks dude!). Alternatively, use as-is.
+This is the server side client data repo ONLY. DO NOT include files in this repo that would normally be used ONLY on the client side.  Store only files necessary for the SERVER operation here.  This would exclude files like sound files and MOST appearance files that do not have collision.
+
+OPTIONAL: Compile into SOT files (see tre-sot-builders repo or ask Erusman - thanks dude!). Alternatively, use as-is.
 
 # Usage
 
@@ -14,6 +16,3 @@ Then clone this repo. You should also remove any other sku.[1-3] or sku.ja folde
 
 If you make any useful changes or improvements, put in a pull request/merge request and I'll merge it in, and you'll become a contributor!
 
-# Buy Darth A Caffinated Beverage
-
-bitcoin:16e1QRRmnBmod3RLtdDMa5muKBGRXE3Kmh
